@@ -12,7 +12,7 @@ height: 420px;
 background:#000;
 color: #fff;
 top: 50%;
-padding-left: 10%;
+left: 50%;
 position: absolute;
 transform: translate(-50%,-50%);
 box-sizing: border-box;
